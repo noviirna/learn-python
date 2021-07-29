@@ -1,2 +1,5 @@
-# This is an example on how to get value from terminal input when running .py file
-print ('This is the input from terminal: ', input())
+import os
+print('Input your name: ')
+name = input() # prompt terminal to ask for your input
+os.system('cls||clear') # clear console terminal
+print ('Hello,', name) 

@@ -3,20 +3,20 @@ This is a collection of `.py` files to learn python language step by step with s
 
 ## Learning materials
 
-0. [Intro to python]()
-1. [Data Type]()
-2. [Variable]()
-3. [Mathematic Operation]()
-4. [String Operation]()
-5. [Conditional Statement]()
-6. [Looping Statement]()
-7. [Function]()
-8. [Exception Handling]()
-9. [File Handling]()
-10. [Object Oriented Programming with Python]()
-11. [Import Data]()
-12. [Intro to NumPy]()
-13. [Data Visualization with MatPlotLib]()
+0. [Intro to python](https://github.com/noviirna/learn-python/tree/master/0_intro)
+1. [Data Type](https://github.com/noviirna/learn-python/tree/master/1_data_type)
+2. [Variable](https://github.com/noviirna/learn-python/tree/master/2_variable)
+3. [Mathematic Operation](https://github.com/noviirna/learn-python/tree/master/3_mathematic_operation)
+4. [String Operation](https://github.com/noviirna/learn-python/tree/master/4_string_operation)
+5. [Conditional Statement](https://github.com/noviirna/learn-python/tree/master/5_conditional)
+6. [Looping Statement](https://github.com/noviirna/learn-python/tree/master/6_looping)
+7. [Function](https://github.com/noviirna/learn-python/tree/master/7_function)
+8. [File Handling](https://github.com/noviirna/learn-python/tree/master/8_file_handling)
+9. [Exception Handling](https://github.com/noviirna/learn-python/tree/master/9_exception_handling)
+10. [Object Oriented Programming with Python](https://github.com/noviirna/learn-python/tree/master/10_oop_with_python)
+11. [Import Data](https://github.com/noviirna/learn-python/tree/master/11_import_data)
+12. [Intro to NumPy](https://github.com/noviirna/learn-python/tree/master/12_working_with_array_using_numpy)
+13. [Data Visualization with MatPlotLib](https://github.com/noviirna/learn-python/tree/master/13_data_visualization_using_matplotlib)
 
 ## Try run `.py` example file by yourself
 `Notes: (author is using ubuntu 18.04, for windows n mac OS you might have to see outside references for setting the environment)`

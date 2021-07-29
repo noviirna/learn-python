@@ -22,3 +22,10 @@ Preparation for learning python:
 - Python is installed (we will be using Python 3 with this tutorial)
 - `optional: `IDE that support python is installed
 
+For first try you can run file `hello-world.py` using python command in your terminal, after you finished all of the preparation.  
+  
+You can see that the console will print "Hello World". Congrats you have run your first `.py` files.  
+  
+Now, lets try to run file `terminal-input.py`. You will see prompt in the terminal that ask you to input something. Go try to input it, and see the output.
+
+After you try the practice file, next we will learn about data type in Python.
