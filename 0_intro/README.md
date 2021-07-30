@@ -22,10 +22,33 @@ Preparation for learning python:
 - Python is installed (we will be using Python 3 with this tutorial)
 - `optional: `IDE that support python is installed
 
+## Run your first Python code
 For first try you can run file `hello-world.py` using python command in your terminal, after you finished all of the preparation.  
   
 You can see that the console will print "Hello World". Congrats you have run your first `.py` files.  
   
 Now, lets try to run file `terminal-input.py`. You will see prompt in the terminal that ask you to input something. Go try to input it, and see the output.
 
-After you try the practice file, next we will learn about data type in Python.
+Besides using terminal, you can run your python code by :
+- Using Python Interactive Mode
+- Using IDE or Code Editor
+- Run Python scripts with a specific Python Version on Anaconda
+- Run a Python script using another Python script
+- Using FileManager
+- etc
+
+## Python structure
+### Indentation
+Indentation in Python is very important, because it is used to indicate a block of code and defining scope for code in the line.
+
+To try it, you can see example code in [`indentation-ok.py`]() and run it, the script will run because it has no error.  
+Next, lets compare it with code in [`indentation-error.py`]() and run it, it will print error in the console like this:
+```
+IndentationError: expected an indented block
+```
+#### Comment
+There are 2 ways, to add comment in your Python code. there are 1 line comment and multi line comment, you can see example in [`comment.py`]() on how to add comment into your Python code
+1. One line commment
+2. Multi line comment
+
+After you try the practice files, next we will learn about data type in Python.
