@@ -6,7 +6,7 @@ This is a collection of `.py` files to learn python language step by step with s
 0. [Intro to python](https://github.com/noviirna/learn-python/tree/master/0_intro)
 1. [Data Type](https://github.com/noviirna/learn-python/tree/master/1_data_type)
 2. [Variable](https://github.com/noviirna/learn-python/tree/master/2_variable)
-3. [Mathematic Operation](https://github.com/noviirna/learn-python/tree/master/3_mathematic_operation)
+3. [Operator](https://github.com/noviirna/learn-python/tree/master/3_operator)
 4. [String Operation](https://github.com/noviirna/learn-python/tree/master/4_string_operation)
 5. [Conditional Statement](https://github.com/noviirna/learn-python/tree/master/5_conditional)
 6. [Looping Statement](https://github.com/noviirna/learn-python/tree/master/6_looping)
