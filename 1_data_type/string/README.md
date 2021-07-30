@@ -10,7 +10,7 @@ a = '1'
 b = 'Hello World'
 ```
 
-To assign multiple line string, value have to be surrounded by either one character of single quotation marks (`'`) or double quotation marks `(")`.
+To assign multiple line string, value have to be surrounded by either three character of single quotation marks (`'`) or double quotation marks `(")`.
 ```python
 word = """Lorem ipsum dolor sit amet,
  consectetur adipiscing elit,
