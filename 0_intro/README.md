@@ -47,8 +47,6 @@ Next, lets compare it with code in [`indentation-error.py`](https://github.com/n
 IndentationError: expected an indented block
 ```
 #### Comment
-There are 2 ways, to add comment in your Python code. there are 1 line comment and multi line comment, you can see example in [`comment.py`](https://github.com/noviirna/learn-python/blob/master/0_intro/comment.py) on how to add comment into your Python code
-1. One line commment
-2. Multi line comment
+There are 2 ways, to add comment in your Python code. there are 1 line comment and multi line comment, you can see example in [`comment.py`](https://github.com/noviirna/learn-python/blob/master/0_intro/comment.py) on how to add comment into your Python code.
 
 After you try the practice files, next we will learn about data type in Python.
