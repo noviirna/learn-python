@@ -33,6 +33,10 @@ There are several ways to store value into variable :
 There are 2 kinds of variable based on scope, local variable and global variable.
 1. Global variable  
    Global variable is a variable that is created outside of a function or a variable that is created inside of a function with `global` keyword before declaring variable name.  
-   Global variable can be used by everyone, both inside of functions and outside. Global variable also can be created inside of a function (see: [example]())
+   Global variable can be used by everyone, both inside of functions and outside. Global variable also can be created inside of a function)
 2. Local variable  
    Local variable is a variable that is created inside of a function, can be used only inside of that function where the variable is declared.
+  
+To see more details on how to access and declare local and global variable, take a look at these python example script:
+- [variable scoping example](https://github.com/noviirna/learn-python/blob/master/2_variable/variable-scope.py
+- [variable scoping common mistake  example](https://github.com/noviirna/learn-python/blob/master/2_variable/variable-scope-error.py
